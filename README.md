@@ -23,6 +23,27 @@ Go to the project location: cd Desktop\CABiT+\src
 Compile the program: javac *.java
 Run the application: java Main
 
+ Features
+ Book cab rides easily through a menu-driven interface
+ Automatic fare calculation based on distance
+ Store ride details in a file (rides.txt)
+ SOS emergency alert feature for safety
+ Eco tracking to estimate fuel consumption
+ View all previously booked rides
+ Technologies Used
+Java
+Object-Oriented Programming (OOP)
+File Handling
+GitHub for version control
+How to Run
+Open Command Prompt
+Navigate to the project folder:
+cd Desktop\CABiT+\src
+Compile the program:
+javac *.java
+Run the application:
+java Main
+
 ##  Output:-
 
 * Users should enters the name and distance
