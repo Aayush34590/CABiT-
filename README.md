@@ -1,4 +1,4 @@
- CABiT+ Smart Cab Booking System
+CABiT+ Smart Cab Booking System
  Problem Statement
 In the current context of urban cities, it is observed that transportation systems are usually not equipped with proper safety features, fare estimation, and even environmental awareness. This may cause a problem in terms of efficiency in travel and safety concerns.
 
